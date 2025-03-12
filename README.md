@@ -1,6 +1,6 @@
-# Netflix Clone UI
+# Netflix Web Clone
 
-A simple Netflix Clone UI built using **React** and **Tailwind CSS**. This project demonstrates a responsive layout with a navbar, hero section, movie carousel, and footer.
+A simple Netflix Web Clone built using **React** and **Tailwind CSS**. This project demonstrates a responsive layout with a navbar, hero section, movie carousel, and footer.
 
 ## 🚀 Features
 
