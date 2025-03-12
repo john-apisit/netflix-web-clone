@@ -40,7 +40,7 @@ A simple Netflix Clone UI built using **React** and **Tailwind CSS**. This proje
 
 ## 📷 Screenshot
 
-![Netflix Web Clone](public/screens/Screenshot 2025-03-12 081846.png)
+![Netflix Web Clone](public/screens/screenshot.png)
 
 ## 🤝 Contributing
 
